@@ -4,7 +4,7 @@
 
 # Shopify Sync
 
-A lightning-fast node equivalent shopify [theme kit](https://shopify.github.io/themekit/) tool. Supports watching, uploading and downloading of Shopify inventory to multiple storefronts concurrently.
+A lightning-fast node equivalent shopify [tool kit](https://shopify.github.io/themekit/) tool. Supports watching, uploading and downloading of Shopify inventory to multiple storefronts concurrently.
 
 ### Why?
 
